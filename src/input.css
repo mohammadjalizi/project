@@ -4,6 +4,7 @@
 
 @layer base{
 *{
+ direction: rtl;
 @apply font-[kanit]
 }
 h1{

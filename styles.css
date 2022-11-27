@@ -1,6 +1,6 @@
-#visible{
+.visible{
 
-transform: translateX(0);
+display: block;
 transition: all 0.5s ;
 
 }
